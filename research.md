@@ -1,11 +1,15 @@
-**Song, D.**, He, L., Li, W., and Yang, M. (2024). A systematic view of information-based optimal subdata selection: Algorithm development, performance evaluation, and application in financial data. \textit{Statistica Sinica}, accepted.
-\url{https://www3.stat.sinica.edu.tw/preprint/SS-2022-0019{\_}Preprint.pdf}
+---
+layout: page
+title: Research
+---
+
+**Song, D.**, He, L., Li, W., and Yang, M. (2024). A systematic view of information-based optimal subdata selection: Algorithm development, performance evaluation, and application in financial data. *Statistica Sinica*, accepted. [link](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0019_Preprint.pdf)
 
 Under review
 
-\textbf{Song, D.}, Joseph, V.R. (2024). Complete active learning for emulation and optimization.
+**Song, D.**, Joseph, V.R. (2024). Complete active learning for emulation and optimization.
 
-\textbf{Song, D.}, Lewis, W., Knapp, P.F., Joseph, V.R. (2024). A new method for instrument optimization with applications to plasma radiation detectors.
+**Song, D.**, Lewis, W., Knapp, P.F., Joseph, V.R. (2024). A new method for instrument optimization with applications to plasma radiation detectors.
 
 Preprint
 
