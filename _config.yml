@@ -21,7 +21,9 @@ author: Difan
 
 navbar-links:
   About Me: "aboutme"
+  News: "news"
   Research: "research"
+  Teaching: "teaching"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
