@@ -15,4 +15,4 @@ Preprint
 
 Li, X., **Song, D.**, Han, M., Zhang, Y., and Kizilcec, R. F. (2021). On the limits of algorithmic prediction across the globe. [arxiv](https://arxiv.org/abs/2103.15212)
 
-**Song, D.**, Mak, S., and Wu, C.F.J. (2023). ACE: Active learning for causal inference with expensive experiments [arxiv](https://arxiv.org/abs/2306.07480)
+**Song, D.**, Mak, S., and Wu, C.F.J. (2023). ACE: Active learning for causal inference with expensive experiments. [arxiv](https://arxiv.org/abs/2306.07480)
