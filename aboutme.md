@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Official and unofficial facts
 ---
 
-My name is Difan Song (宋迪凡). I am currently a Ph.D. candidate at the Georgia Institute of Technology.
+My name is Difan Song (宋迪凡). I am currently a Ph.D. candidate at the Georgia Institute of Technology. My research focuses on developing statistical and machine learning methods to address problems in science, engineering, and online applications. I am especially interested in the fields of optimal experimental design, high-dimensional active learning, Bayesian optimization, causal inference, and digital twin development, where data acquisition is difficult or expensive. I am lucky to be advised by Prof. C. F. Jeff Wu and Prof. V. Roshan Joseph, while also being supervised by Prof. Simon Mak for my research.
 
-- I am lucky to have been welcomed into the field of DOE.
-- I believe in intuitive solutions to real-world problems.
+Before I came to Georgia Tech, I studied Finance at the Shanghai Advanced Institute of Finance, where I received great help from my two advisors: Prof. David Li and Prof. William Li.
 
-The "Di" in my name stands for "Dihua," an old name for Urumqi, where I was born. "Fan" means ordinary, and that's who I am: an ordinary person from the city of Dihua.
-
-- I love cooking because it offers much quicker feedback than research.
-- I also love fountain pens and Chinese calligraphy.
-- I owned three cats back at Urumqi. I suppose I do miss the company of a pet right now.
+The "Di" in my name stands for "Dihua," an old name for Urumqi, where I was born. "Fan" means ordinary, and that's who I am: an ordinary person from the city of Dihua. Other than research, I enjoy cooking, Chinese calligraphy, and spending time with my two energetic cats, Aaron (汤圆) and Annamarie (芝麻).
