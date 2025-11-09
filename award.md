@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards and Honors
+title: Awards & Honors
 ---
 
 (2025.10) Best poster, Georgia Statistics Day 2025.
