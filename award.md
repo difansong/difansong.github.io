@@ -5,7 +5,7 @@ title: Awards
 
 Best poster, Georgia Statistics Day, 2025.
 
-American Statistical Association Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P) Student Paper Competition winner, 2025 Joint Statistical Meetings (JSM), 2025.
+American Statistical Association Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P) Student Paper Competition winner, Joint Statistical Meetings (JSM), 2025.
 
 Best poster: Design Theory, Design and Analysis of Experiments (DAE), 2024.
 
