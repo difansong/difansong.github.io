@@ -11,7 +11,7 @@ title: Publications
 
 [3] **Song, D.**, He, L., Li, W., and Yang, M. (2024). A Systematic View of Information-based Optimal Subdata Selection: Algorithm Development, Performance Evaluation, and Application in Financial Data. *Statistica Sinica*, 34, 611-636. [link](https://www3.stat.sinica.edu.tw/statistica/J34N2/j34n205/j34n205.html)
 
-[4] **Song, D.**, Mak, S., and Wu, C.F.J. (2023). ACE: Active Learning for Causal Inference with Expensive Experiments. In \textit{KDD Workshop 2023: Causal Inference and Machine Learning in Practice: Use cases for Product, Brand, Policy, and beyond}. [arxiv](https://arxiv.org/abs/2306.07480)
+[4] **Song, D.**, Mak, S., and Wu, C.F.J. (2023). ACE: Active Learning for Causal Inference with Expensive Experiments. In *KDD Workshop 2023: Causal Inference and Machine Learning in Practice: Use cases for Product, Brand, Policy, and beyond*. [arxiv](https://arxiv.org/abs/2306.07480)
 
 ## Submitted
 
