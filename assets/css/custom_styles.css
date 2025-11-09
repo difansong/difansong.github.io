@@ -1,0 +1,40 @@
+/* Custom Background Image Styling */
+body {
+  /* This ensures the ::before element is positioned relative to the body */
+  position: relative; 
+  
+  /* This removes the original image set by page-img to prevent doubling */
+  background-image: none !important; 
+}
+
+body::before {
+  content: ""; /* Required for a pseudo-element to show up */
+  
+  /* Your image path */
+  background-image: url("/assets/img/Zhima2.JPG"); 
+
+  /* --- This is where you resize the image --- */
+  /* This makes the image cover the entire screen, maintaining aspect ratio */
+  background-size: cover; 
+  
+  /* This ensures the image is fixed as you scroll */
+  background-attachment: fixed; 
+  
+  /* This centers the image */
+  background-position: center center; 
+
+  /* --- This is where you make it transparent --- */
+  /* Adjust 0.3 to be more or less transparent (0.1 = faint, 1.0 = solid) */
+  opacity: 0.3; 
+
+  /* --- Positioning --- */
+  /* These rules stretch it to cover the full page... */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  /* ...and place it *behind* all your content */
+  z-index: -1; 
+}
