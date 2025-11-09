@@ -20,7 +20,6 @@ author: Difan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Publications: "publication"
   Teaching: "teaching"
   Awards: "award"
