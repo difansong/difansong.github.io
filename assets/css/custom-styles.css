@@ -25,7 +25,7 @@ body::before {
 
   /* --- This is where you make it transparent --- */
   /* Adjust 0.3 to be more or less transparent (0.1 = faint, 1.0 = solid) */
-  opacity: 0.1; 
+  opacity: 0.15; 
 
   /* --- Positioning --- */
   /* These rules stretch it to cover the full page... */
