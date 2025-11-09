@@ -3,16 +3,20 @@ layout: page
 title: Research
 ---
 
-**Song, D.**, He, L., Li, W., and Yang, M. (2024). A systematic view of information-based optimal subdata selection: Algorithm development, performance evaluation, and application in financial data. *Statistica Sinica*, accepted. [link](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0019_Preprint.pdf)
+## Peer-reviewed
 
-Under review
+[1] **Song, D.**, Lewis, W., Knapp, P.F., Wu, C.F.J., Joseph, V.R. (2025). Efficient Optimization of Plasma Radiation Detector Configurations using Imperfect Inference Models, *Journal of the American Statistical Association*, 1–16. [link](https://doi.org/10.1080/01621459.2025.2582601)
 
-**Song, D.**, Joseph, V.R. (2024). Complete active learning for emulation and optimization.
+[2] **Song, D.**, and Joseph, V. R. (2025). Efficient Active Learning Strategies for Computer Experiments. *Technometrics*, 1–20. [link](https://doi.org/10.1080/00401706.2025.2546366)
 
-**Song, D.**, Lewis, W., Knapp, P.F., Joseph, V.R. (2024). A new method for instrument optimization with applications to plasma radiation detectors.
+[3] **Song, D.**, He, L., Li, W., and Yang, M. (2024). A Systematic View of Information-based Optimal Subdata Selection: Algorithm Development, Performance Evaluation, and Application in Financial Data. *Statistica Sinica*, 34, 611-636. [link](https://www3.stat.sinica.edu.tw/statistica/J34N2/j34n205/j34n205.html)
 
-Preprint
+[4] **Song, D.**, Mak, S., and Wu, C.F.J. (2023). ACE: Active Learning for Causal Inference with Expensive Experiments. In \textit{KDD Workshop 2023: Causal Inference and Machine Learning in Practice: Use cases for Product, Brand, Policy, and beyond}. [arxiv](https://arxiv.org/abs/2306.07480)
 
-Li, X., **Song, D.**, Han, M., Zhang, Y., and Kizilcec, R. F. (2021). On the limits of algorithmic prediction across the globe. [arxiv](https://arxiv.org/abs/2103.15212)
+## Submitted
 
-**Song, D.**, Mak, S., and Wu, C.F.J. (2023). ACE: Active learning for causal inference with expensive experiments. [arxiv](https://arxiv.org/abs/2306.07480)
+[5] **Song, D.**, and Joseph, V. R. (2025+). Efficient Screening Designs for Expensive Black-box Models with Qualitative and Quantitative Factors. Under review at *Journal of the American Statistical Association*. Manuscript available upon request.
+
+## Preprint
+
+[6] Li, X., **Song, D.**, Han, M., Zhang, Y., and Kizilcec, R. F. (2021). On the limits of algorithmic prediction across the globe. [arxiv](https://arxiv.org/abs/2103.15212)
