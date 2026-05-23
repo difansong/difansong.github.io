@@ -13,10 +13,12 @@ title: Publications
 
 [4] **Song, D.**, Mak, S., and Wu, C.F.J. (2023). ACE: Active Learning for Causal Inference with Expensive Experiments. In *KDD Workshop 2023: Causal Inference and Machine Learning in Practice: Use cases for Product, Brand, Policy, and beyond*. [arxiv](https://arxiv.org/abs/2306.07480)
 
-## Submitted
-
-[5] **Song, D.**, and Joseph, V. R. (2025+). Efficient Screening Designs for Expensive Black-box Models with Qualitative and Quantitative Factors. Under review at *Journal of the American Statistical Association*. Manuscript available upon request.
-
 ## Preprint
 
-[6] Li, X., **Song, D.**, Han, M., Zhang, Y., and Kizilcec, R. F. (2021). On the limits of algorithmic prediction across the globe. [arxiv](https://arxiv.org/abs/2103.15212)
+[5] Li, X., **Song, D.**, Han, M., Zhang, Y., and Kizilcec, R. F. (2021). On the limits of algorithmic prediction across the globe. [arxiv](https://arxiv.org/abs/2103.15212)
+
+## Working paper
+
+[6] **Song, D.**, and Joseph, V. R. (2026+). Rational Quadratic Kriging. Manuscript available upon request.
+
+[7] **Song, D.**, and Joseph, V. R. (2026+). Efficient Screening Designs for Expensive Black-box Models with Qualitative and Quantitative Factors. Manuscript available upon request.
