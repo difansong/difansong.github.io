@@ -5,9 +5,9 @@ title: Publications
 
 ## Peer-reviewed
 
-[1] **Song, D.**, Lewis, W., Knapp, P.F., Wu, C.F.J., Joseph, V.R. (2025). Efficient Optimization of Plasma Radiation Detector Configurations using Imperfect Inference Models. *Journal of the American Statistical Association*, 1–16. [link](https://doi.org/10.1080/01621459.2025.2582601)
+[1] **Song, D.**, Lewis, W., Knapp, P.F., Wu, C.F.J., Joseph, V.R. (2026). Efficient Optimization of Plasma Radiation Detector Configurations using Imperfect Inference Models. *Journal of the American Statistical Association*, 121(553), 163–171. [link](https://doi.org/10.1080/01621459.2025.2582601)
 
-[2] **Song, D.**, and Joseph, V. R. (2025). Efficient Active Learning Strategies for Computer Experiments. *Technometrics*, 1–14. [link](https://doi.org/10.1080/00401706.2025.2546366)
+[2] **Song, D.**, and Joseph, V. R. (2026). Efficient Active Learning Strategies for Computer Experiments. *Technometrics*, 68(1), 65–78. [link](https://doi.org/10.1080/00401706.2025.2546366)
 
 [3] **Song, D.**, He, L., Li, W., and Yang, M. (2024). A Systematic View of Information-based Optimal Subdata Selection: Algorithm Development, Performance Evaluation, and Application in Financial Data. *Statistica Sinica*, 34, 611-636. [link](https://www3.stat.sinica.edu.tw/statistica/J34N2/j34n205/j34n205.html)
 
