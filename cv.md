@@ -1,22 +1,32 @@
 ---
-layout: page
+layout: base
 title: CV
 permalink: /cv/
-full-width: true
 ---
 
-<div class="cv-pdf-wrapper">
-  <object
-    class="cv-pdf"
-    data="{{ '/assets/files/CV_Difan_Song.pdf' | relative_url }}#view=FitH"
-    type="application/pdf"
-    aria-label="Difan Song CV">
-    
-    <p>
-      Your browser cannot display this PDF inline.
-      <a href="{{ '/assets/files/CV_Difan_Song.pdf' | relative_url }}">
-        Open the CV
-      </a>.
-    </p>
-  </object>
-</div>
+<main class="cv-page">
+
+  <div class="cv-actions">
+    <a
+      class="btn btn-primary"
+      href="{{ '/assets/files/CV_Difan_Song.pdf' | relative_url }}"
+      download>
+      <i class="fas fa-download" aria-hidden="true"></i>
+      Download CV
+    </a>
+  </div>
+
+  <iframe
+    class="cv-browser-viewer"
+    src="{{ '/assets/files/CV_Difan_Song.pdf' | relative_url }}"
+    title="Difan Song CV">
+  </iframe>
+
+  <p class="cv-fallback">
+    Having trouble viewing the PDF?
+    <a href="{{ '/assets/files/CV_Difan_Song.pdf' | relative_url }}">
+      Open the CV directly
+    </a>.
+  </p>
+
+</main>
