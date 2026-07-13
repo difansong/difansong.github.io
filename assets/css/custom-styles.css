@@ -38,3 +38,27 @@ body::before {
   /* ...and place it *behind* all your content */
   z-index: -1; 
 }
+
+/* Embedded CV page */
+.cv-pdf-wrapper {
+  width: 100%;
+  height: calc(100vh - 180px);
+  min-height: 700px;
+  margin: 0 auto 2rem;
+}
+
+.cv-pdf {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid rgba(64, 64, 64, 0.2);
+  border-radius: 4px;
+  background: #fff;
+}
+
+@media (max-width: 576px) {
+  .cv-pdf-wrapper {
+    height: calc(100vh - 140px);
+    min-height: 520px;
+  }
+}
