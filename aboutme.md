@@ -1,8 +1,0 @@
----
-layout: page
-title: About me
----
-
-My name is Difan Song (宋迪凡). I am currently a Postdoctoral Fellow in the Department of Statistics at Harvard University, under the supervision of Prof. Susan A. Murphy. My research focuses on developing statistical and machine learning methods to address problems in science, engineering, and online applications, particularly where data acquisition is difficult or expensive. I am especially interested in the fields of experimental design, high-dimensional active learning, Bayesian optimization, causal inference, and digital twin development. Before coming to Harvard, I acquired my Ph.D. in Industrial Engineering at the Georgia Institute of Technology. I was fortunate to be advised by Prof. C. F. Jeff Wu and Prof. V. Roshan Joseph, while also being supervised by Prof. Simon Mak for my research.
-
-The "Di" in my name stands for "Dihua," an old name for Urumqi, where I was born. "Fan" means ordinary, and that's who I am: an ordinary person from the city of Dihua. Aside from research, I enjoy cooking, Chinese calligraphy, and buying stuff for my two energetic cats, Aaron (汤圆) and Annamarie (芝麻).
