@@ -3,6 +3,8 @@ layout: page
 title: Awards
 ---
 
+National Institute of Statistical Sciences (NISS) New Researcher Award, 2026.
+
 Best poster, Georgia Statistics Day, 2025.
 
 American Statistical Association Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P) Student Paper Competition winner, Joint Statistical Meetings (JSM), 2025.
